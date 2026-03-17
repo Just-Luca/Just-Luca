@@ -26,7 +26,7 @@
 </a>
 
 👋 &nbsp;Hello there! Luca here, a 28 year old physicist and developer wannabe\
-🎓 I've completed my Bachelor's in Physics at the University of Milano-Bicocca (Italy), and have completed over a year of coursework in Theoretical Physics at the University of Vienna (Austria)
+🎓 I've completed my Bachelor's in Physics at the University of Milano-Bicocca (Italy), and have done over a year of coursework in Theoretical Physics at the University of Vienna (Austria)
 
 <!-- 💡 &nbsp;I like automation, simple and yet elegant solutions to everyday problems\
 🌱 &nbsp;I'm cooking and experimenting with AI, python, agentic systems, and data-oriented solutions\
