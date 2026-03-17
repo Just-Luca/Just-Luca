@@ -25,7 +25,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Just-Luca&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-👋 &nbsp;Hello there! Luca here, 28 years old physicist and developer wannabe\
+👋 &nbsp;Hello there! Luca here, a 28 year old physicist and developer wannabe\
 🎓 I've completed my Bachelor's in Physics at the University of Milano-Bicocca (Italy), and have completed over a year of coursework in Theoretical Physics at the University of Vienna (Austria)
 
 <!-- 💡 &nbsp;I like automation, simple and yet elegant solutions to everyday problems\
